@@ -1,1 +1,1 @@
-# JIgxy
+jigxy is a discord bot made in javascript it has multiple functions such as moderation, fun, memes, polls, and a role system
